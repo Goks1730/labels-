@@ -1,1 +1,2 @@
-# labels-
+Covid 
+Non covid 
